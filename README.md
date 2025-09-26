@@ -76,6 +76,10 @@ Renamed Files: Script မှ အောင်မြင်စွာ ပြော�
 
 Console Output: Terminal တွင် နာမည်ပြောင်းလဲခြင်း လုပ်ငန်းစဉ် အောင်မြင်မှု/မအောင်မြင်မှုကို အဆင့်ဆင့် ဖော်ပြပေးပါမည်။
 
+---
+## 📁 Project Structure
+
+ဒီ Project Folder မှာ အောက်ပါအတိုင်း ဖိုင်တွေ ပါဝင်ပါတယ်။
 ⚠️ Troubleshooting (ပြဿနာဖြေရှင်းနည်း)
 
 ပြဿနာဖြစ်နိုင်ခြေ အကြောင်းရင်းဖြေရှင်းနည်းpython: command not foundPython ကို Install မလုပ်ရသေးခြင်း သို့မဟုတ် Path ထဲတွင် မရှိခြင်း။Python ကို စနစ်တကျ Install လုပ်ပြီး Terminal အသစ် ပြန်ဖွင့်ပါ။File Renamer: Permission deniedပြောင်းလဲလိုသော ဖိုင်ကို အခြား Program တစ်ခုမှ ဖွင့်ထားခြင်း။ဖွင့်ထားသော Program (e.g., Image Viewer, Video Editor) ကို ပိတ်ပါ။No files found in directoryScript Folder ထဲမှာ ပြောင်းလဲလိုသော ဖိုင်များ လုံးဝ မရှိခြင်း။Script နဲ့ တူညီသော Folder ထဲမှာ ဖိုင်အနည်းဆုံး ၁ ဖိုင် ထည့်သွင်းပါ။
