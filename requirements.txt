@@ -1,0 +1,4 @@
+# This project does not require any external packages.
+# Future packages will be listed here, for example:
+# pandas==2.2.0
+# requests==2.31.0
